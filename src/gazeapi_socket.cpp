@@ -19,7 +19,7 @@
 #endif
 
 #include "gazeapi_socket.hpp"
-
+#include <iostream>
 
 namespace gtl
 {
